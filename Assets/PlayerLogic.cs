@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class PlayerLogic : MonoBehaviour
 {
-
+    //hello
     public float PlayerSpeed = 2000.0f;
     ScoreLogic addToScore;
     // Start is called before the first frame update
